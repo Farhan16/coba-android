@@ -26,11 +26,4 @@
         tools:layout_editor_absoluteX="16dp"
         tools:layout_editor_absoluteY="347dp" />
 
-    <QuickContactBadge
-        android:id="@+id/quickContactBadge"
-        android:layout_width="145dp"
-        android:layout_height="257dp"
-        app:srcCompat="@android:drawable/alert_dark_frame"
-        tools:layout_editor_absoluteX="0dp" />
-
 </android.support.constraint.ConstraintLayout>
